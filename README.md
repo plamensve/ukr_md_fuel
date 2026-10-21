@@ -24,3 +24,7 @@ In **Settings → Pages → Build and deployment**, select **Deploy from a branc
 - Customer inquiry channels go directly to \`p.krustev@gtapetroleum.com\`, WhatsApp and Viber \`+359883427273\`; no contact data is stored by the page.
 - Photography and brand-channel icon assets are referenced from the existing owned <https://svetoslavov.bg/> website/source repo. If it moves, replace external image URLs with local optimized assets.
 - Claim sources: [GTA Petroleum](https://gtapetroleum.com/) and [Plamen Svetoslavov](https://svetoslavov.bg/). Figures shown are sourced to those sites and should be updated if operations change.
+
+### Country flag icons
+
+Language buttons use local SVG flag assets for the United Kingdom (English), Romania, Moldova and Ukraine. Flag icons: [flag-icons](https://github.com/lipis/flag-icons), copyright (c) 2013 Panayiotis Lipiridis; MIT licensed. The full license is in `assets/flags/LICENSE`.
