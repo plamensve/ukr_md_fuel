@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plamensve.github.io/ukr_md_fuel/sitemap.xml

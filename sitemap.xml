@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://plamensve.github.io/ukr_md_fuel/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://plamensve.github.io/ukr_md_fuel/"/>
+    <xhtml:link rel="alternate" hreflang="ro-RO" href="https://plamensve.github.io/ukr_md_fuel/ro/"/>
+    <xhtml:link rel="alternate" hreflang="ro-MD" href="https://plamensve.github.io/ukr_md_fuel/md/"/>
+    <xhtml:link rel="alternate" hreflang="uk-UA" href="https://plamensve.github.io/ukr_md_fuel/uk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://plamensve.github.io/ukr_md_fuel/"/>
+  </url>
+  <url>
+    <loc>https://plamensve.github.io/ukr_md_fuel/ro/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://plamensve.github.io/ukr_md_fuel/"/>
+    <xhtml:link rel="alternate" hreflang="ro-RO" href="https://plamensve.github.io/ukr_md_fuel/ro/"/>
+    <xhtml:link rel="alternate" hreflang="ro-MD" href="https://plamensve.github.io/ukr_md_fuel/md/"/>
+    <xhtml:link rel="alternate" hreflang="uk-UA" href="https://plamensve.github.io/ukr_md_fuel/uk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://plamensve.github.io/ukr_md_fuel/"/>
+  </url>
+  <url>
+    <loc>https://plamensve.github.io/ukr_md_fuel/md/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://plamensve.github.io/ukr_md_fuel/"/>
+    <xhtml:link rel="alternate" hreflang="ro-RO" href="https://plamensve.github.io/ukr_md_fuel/ro/"/>
+    <xhtml:link rel="alternate" hreflang="ro-MD" href="https://plamensve.github.io/ukr_md_fuel/md/"/>
+    <xhtml:link rel="alternate" hreflang="uk-UA" href="https://plamensve.github.io/ukr_md_fuel/uk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://plamensve.github.io/ukr_md_fuel/"/>
+  </url>
+  <url>
+    <loc>https://plamensve.github.io/ukr_md_fuel/uk/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://plamensve.github.io/ukr_md_fuel/"/>
+    <xhtml:link rel="alternate" hreflang="ro-RO" href="https://plamensve.github.io/ukr_md_fuel/ro/"/>
+    <xhtml:link rel="alternate" hreflang="ro-MD" href="https://plamensve.github.io/ukr_md_fuel/md/"/>
+    <xhtml:link rel="alternate" hreflang="uk-UA" href="https://plamensve.github.io/ukr_md_fuel/uk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://plamensve.github.io/ukr_md_fuel/"/>
+  </url>
+</urlset>
