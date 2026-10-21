@@ -31,3 +31,20 @@
  .languages a{flex:1;min-width:0;border:1px solid #e2e9ed;border-radius:8px;padding:7px 5px;gap:7px;font-size:11px}
  .languages a[aria-current=page]{border-color:#bbcedb;box-shadow:inset 0 0 0 1px #bbcedb}
 }
+
+
+/* Larger, legible sales contact portrait on desktop, tablet and mobile. */
+.person{gap:24px;align-items:center}
+.person img{display:block;width:176px;height:176px;flex:0 0 176px;object-fit:cover;object-position:center;border-radius:50%;border:3px solid rgba(255,255,255,.23);box-shadow:0 14px 38px rgba(0,0,0,.25)}
+.person strong{font-size:17px;line-height:1.45}
+.person span{font-size:12px;line-height:1.7}
+@media(max-width:610px){
+ .person{gap:15px}
+ .person img{width:114px;height:114px;flex-basis:114px;border-width:2px}
+ .person strong{font-size:14px}
+ .person span{font-size:11px}
+}
+@media(max-width:380px){
+ .person{gap:12px}
+ .person img{width:100px;height:100px;flex-basis:100px}
+}
